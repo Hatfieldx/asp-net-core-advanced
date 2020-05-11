@@ -1,0 +1,15 @@
+2020-03-24 12:23:57.2269|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-24 12:23:57.2949|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-24 12:23:57.2949|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\EDU_C#\asp core\itvdn\advanced\lesson6\lesson6
+2020-03-24 12:24:43.0785|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-24 12:24:43.1225|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-24 12:24:43.1255|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\EDU_C#\asp core\itvdn\advanced\lesson6\lesson6
+2020-03-24 12:24:43.6206|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-24 12:25:02.9157|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-24 12:25:02.9527|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-24 12:25:02.9557|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\EDU_C#\asp core\itvdn\advanced\lesson6\lesson6
+2020-03-24 12:25:02.9557|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.
+2020-03-24 12:25:14.0473|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2020-03-24 12:25:14.0903|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2020-03-24 12:25:14.0933|INFO|Microsoft.Hosting.Lifetime|Content root path: D:\EDU_C#\asp core\itvdn\advanced\lesson6\lesson6
+2020-03-24 12:25:14.1393|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request.

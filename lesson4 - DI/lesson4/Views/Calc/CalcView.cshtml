@@ -1,0 +1,35 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model lesson4.Models.ViewModels.CalcViewModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CalcView</title>
+</head>
+<body>
+
+    <form method="get">
+        <table>
+            <tr>
+                <td><input name="a" type="number" required min="0" width="10" value="@Model.A" /></td>
+                <td><input name="b" type="number" required min="0" width="10" value="@Model.B" /></td>
+                <td>
+                    <input type="submit" asp-action="sum" value="+" style="border:1px solid gray" />
+                    <input type="submit" asp-action="sub" value="-" style="border:1px solid gray" />
+                    <input type="submit" asp-action="mult" value="x" style="border:1px solid gray" />
+                    <input type="submit" asp-action="div" value="/" style="border:1px solid gray" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3"><input name="result" type="number" required min="0" width="10" value="@Model.Result" /></td>
+            </tr>
+        </table> 
+    </form>
+
+</body>
+</html>

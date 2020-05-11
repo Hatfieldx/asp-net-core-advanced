@@ -1,0 +1,4 @@
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMiddleware\bin\Debug\netcoreapp3.1\CustomMiddleware.deps.json
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMiddleware\bin\Debug\netcoreapp3.1\CustomMiddleware.dll
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.AssemblyInfoInputs.cache
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMiddleware\obj\Debug\netcoreapp3.1\CustomMiddleware.AssemblyInfo.cs

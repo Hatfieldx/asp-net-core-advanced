@@ -1,0 +1,10 @@
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.csprojAssemblyReference.cache
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.Properties.Resources.resources
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.csproj.GenerateResource.cache
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.AssemblyInfoInputs.cache
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.AssemblyInfo.cs
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\bin\Release\netcoreapp3.1\CustomMW.deps.json
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\bin\Release\netcoreapp3.1\CustomMW.dll
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\bin\Release\netcoreapp3.1\CustomMW.pdb
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.dll
+D:\EDU_C#\asp core\itvdn\advanced\utils\CustomMW\CustomMW\obj\Release\netcoreapp3.1\CustomMW.pdb
